@@ -1,1 +1,0 @@
-import"./hoisted.BQALBi0K.js";var e=document.getElementById("xxenta-email"),n=e.textContent.replaceAll("REMOVE","");console.log("mailAddress="+n);e.innerHTML=n;console.log("mailAnchor.innerHTML="+e.innerHTML);e.href="mailto:"+e.innerHTML;console.log("mailAnchor.href="+e.href);
